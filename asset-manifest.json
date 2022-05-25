@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c0882cd.css",
-    "main.js": "/static/js/main.1a7161a9.js",
+    "main.css": "/static/css/main.0129d63c.css",
+    "main.js": "/static/js/main.30c941c9.js",
     "static/js/787.0f20e70d.chunk.js": "/static/js/787.0f20e70d.chunk.js",
     "static/media/von Grosse_Kayden.png": "/static/media/von Grosse_Kayden.31c3f9af06284e29d0e8.png",
     "index.html": "/index.html",
-    "main.5c0882cd.css.map": "/static/css/main.5c0882cd.css.map",
-    "main.1a7161a9.js.map": "/static/js/main.1a7161a9.js.map",
+    "main.0129d63c.css.map": "/static/css/main.0129d63c.css.map",
+    "main.30c941c9.js.map": "/static/js/main.30c941c9.js.map",
     "787.0f20e70d.chunk.js.map": "/static/js/787.0f20e70d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c0882cd.css",
-    "static/js/main.1a7161a9.js"
+    "static/css/main.0129d63c.css",
+    "static/js/main.30c941c9.js"
   ]
 }
